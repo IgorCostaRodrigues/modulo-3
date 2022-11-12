@@ -1,0 +1,72 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Dorflex",
+        "descricao": "Dorflex é um medicamento que possui ação analgésica e relaxante muscular. É indicado para aliviar dores.",
+        "preco": 6.99,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Torsilax",
+        "descricao": "Torsilax é um receitado para o tratamento do reumatismo, um conjunto de doenças que pode afetar as articulações.",
+        "preco": 17.99,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "Epocler",
+        "descricao": "Epocler® age principalmente sobre o fígado evitando o acúmulo de gordura nesse órgão e auxiliando na remoção de restos metabólicos e outras toxinas.",
+        "preco": 3.60,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "Neosaldina",
+        "descricao": "NEOSALDINA é um medicamento com atividade analgésica (diminui a dor) e antiespasmódica (diminui contração involuntária).",
+        "preco": 7.38,
+        "categoria_id": 1
+      }
+   
+    ],
+
+    "funcionamento": [
+      {
+        "id": 1,
+        "horarios": "segunda a sexta (7:30 as 21:00)"
+      },
+      {
+        "id": 2,
+        "horarios": "sábado (7:30 as 20:00)"
+      },
+      {
+        "id": 3,
+        "horarios": "domingo (8:00 as 15:00)"
+      },
+      {
+        "id": 4,
+        "horarios": "feriado (8:00 as 18:00)"
+      }
+      
+    ],
+
+    "funcionarios": [
+        {
+          "id": 1,
+          "nome": "Fabiula"
+        },
+        {
+            "id": 1,
+            "nome": "Geraldo"
+          },
+          {
+            "id": 1,
+            "nome": "Iza"
+          },
+          {
+            "id": 1,
+            "nome": "Bruno"
+          }
+      ]
+  }
