@@ -1,11 +1,14 @@
 {
   "dependencies": {
     "json-server": "^0.17.1"
+
   },
   "name": "modulo-3",
   "version": "1.0.0",
-  "main": "servidor.js",
+  "main": "server.js",
+  "devDependencies": {},
   "scripts": {
+    "start": "node servidor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
